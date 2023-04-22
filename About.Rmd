@@ -1,0 +1,14 @@
+## Author
+
+- **Name:** Min-Hsueh Chiang
+- **Email:** mchiang5@illinois.edu
+
+## Purpose
+In general, this app seeks to provide a visualization of different death types within different variables(state, gender, age group). The users would be able to choose what kinds of deathtypes they would like to see, and what variables do they want to group by. Following on, a reactive histogram would display, and the second tab in the app is a reactive summarized dataset, which the users could referenced on.
+ 
+## Data
+The data focuses on recording deaths of COVID-19 pneumonia,and influenza deaths within each different states, age, and gender. The data set was downloaded in December 3rd, and, thus, all observations ranged from 2020 January to 2022 December 3rd.
+
+
+## References
+National Center for Health Statistics. Provisional COVID-19 Deaths by Sex and Age. Date accessed [Last accessed date]. Available from https://data.cdc.gov/d/9bhg-hcku.
